@@ -20,3 +20,9 @@ To install the necessary dependencies, follow these steps:
 
 ## How to Use
 Give overview on usage and how to use
+
+## Reference Projects
+1. [Book-Genre-Prediction](https://github.com/chikne97/Book-Genre-Prediction/tree/master)
+
+## Dataset Used
+1. [Video Games Data](https://www.kaggle.com/datasets/maso0dahmed/video-games-data)
