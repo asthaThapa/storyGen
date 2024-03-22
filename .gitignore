@@ -1,2 +1,8 @@
 bookData.csv
 books_and_genres.csv
+gameStoryGen/genre_Identfier/data/TinyStoriesV3-GPT4-train.txt
+gameStoryGen/genre_Identfier/data/TinyStoriesV3-GPT4-valid.txt
+gameStoryGen/genre_Identfier/storyTrain.txt
+gameStoryGen/genre_Identfier/storyValid.txt
+gameStoryGen/storyGen/model_save/
+gameStoryGen/storyGen/story_generator_checkpoint/
